@@ -338,7 +338,7 @@ const App: React.FC = () => {
               </div>
             </div>
             <div className="mt-16 text-white/30 text-sm font-mono flex flex-col items-center gap-2">
-              <p>{resumeData.basics.location.address}, {resumeData.basics.location.city}, {resumeData.basics.location.region}</p>
+              <p>{resumeData.basics.location.city}, {resumeData.basics.location.region}, {resumeData.basics.location.countryCode}</p>
               <a 
                 href={`tel:${resumeData.basics.phone}`}
                 className="text-blue-500/60 hover:text-blue-500 transition-colors flex items-center gap-2"
