@@ -4,7 +4,7 @@ A high-converting, futuristic portfolio website for **Jolsana Jaimon**, Software
 
 ## 🚀 Live Demo
 
-Check out the live site: [https://jolsana-jaimon-futuristic-portfolio.vercel.app](https://jolsana-jaimon-futuristic-portfolio.vercel.app)
+Check out the live site: [https://jolsana-jaimon-portfolio.vercel.app](https://jolsana-jaimon-portfolio.vercel.app)
 
 ## ✨ Features
 
