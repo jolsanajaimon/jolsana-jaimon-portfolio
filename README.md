@@ -1,4 +1,4 @@
-# Jolsana Jaimon | Futuristic Portfolio
+# Jolsana Jaimon | Portfolio
 
 A high-converting, futuristic portfolio website for **Jolsana Jaimon**, Software Engineer and Angular/Full Stack Developer. This project showcases technical skills, projects, and professional experience with a modern, high-performance interface.
 
