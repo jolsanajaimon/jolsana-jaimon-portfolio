@@ -34,7 +34,7 @@ Check out the live site: [https://jolsana-jaimon-portfolio.vercel.app](https://j
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jolsanajaimon/jolsana-jaimon-portfolio.git
+   git clone https://github.com/jolsanajaimon/Jolsana-Jaimon-Portfolio.git
    ```
 
 2. **Navigate to the project directory:**
